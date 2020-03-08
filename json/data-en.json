@@ -1,0 +1,50 @@
+{
+	"borsellino" : {
+		"label" : "Borsellino",
+		"html" : "<p>Odio quasi dolorem suscipit alias commodi deserunt explicabo. Commodi consequatur ut voluptas in aperiam. In facilis qui molestias.A aut soluta totam qui repudiandae recusandae delectus. Nobis non nostrum neque quos dignissimos qui quod. Quos accusamus amet nam ex odit dolorem necessitatibus. Deserunt sed harum deleniti.Et sunt impedit pariatur animi deleniti sint debitis accusantium. Dolor voluptatem tempora voluptate consequatur voluptatem quaerat illum unde. Atque laudantium quas maiores. Voluptatem quia nesciunt earum officiis perspiciatis saepe sint eum. Et alias ipsa cum non.Totam non at magnam quibusdam dicta quam iure. Voluptatibus non itaque dolores rerum molestiae eos. Consectetur non velit tempore repellat quos placeat dolor blanditiis.Explicabo tempora minus et ea quia harum ut voluptatem. Magnam eos adipisci nulla culpa explicabo. Culpa corrupti voluptatem labore.</p>",
+		"image" : "images/borsellino.png"
+	},
+	"chinnici" : {
+		"label" : "Chinnici",
+		"html" : "pinko",
+		"image" : "images/chinnici.png"
+	},
+	"falcone" : {
+		"label" : "Falcone",
+		"html" : "pinko",
+		"image" : "images/falcone.png"
+	},
+	"lenzuola" : {
+		"label" : "Lenzuola",
+		"html" : "pinko",
+		"image" : "images/lenzuola.png"
+	},
+	"pizzo" : {
+		"label" : "Pizzo",
+		"html" : "pinko",
+		"image" : "images/pizzo.png"
+	},
+	"puglisi" : {
+		"label" : "Puglisi",
+		"html" : "pinko",
+		"image" : "images/puglisi.png"
+	},
+	"logo" : {
+		"image" : "images/logo.png"
+	},
+	"projectName" : {
+		"label": "Progetto 'La nave della legalità'"
+	},
+	"itemNameCF1" : {
+		"label": "Falcone e Borsellino"
+	},
+	"itemNameCF2" : {
+		"label": "Falcone e Borsellino"
+	},
+	"schoolWebsite" : {
+		"label": "La nostra scuola"
+	},
+	"closeItem" : {
+		"label": "Chiudi"
+	}
+}

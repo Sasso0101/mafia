@@ -5,9 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
+    <script src="loader.js"></script>
+    <script src="script.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap" rel="stylesheet">
 </head>
-<body>
+<body onload="windowStart()">
     <nav>
         <a href="https://potep.org" id="schoolWebsite">Polo tecnico Cankar - Zois - Vega</a>
         <div class="lang">
@@ -18,15 +20,15 @@
         </div>
     </nav>
     <img id="logo" src="images/logo.png" alt="">
+    <a onclick="hideItem()" id="closeItem">Chiudi</a>
     <span id="projectName">Progetto "La nave della legalità"</span>
-    <h1 id="itemTitle" class="itemTitle">Falcone e Borsellino</h1>
-    <div class="timeline">
-        <div class="circle borsellino"></div>
-        <div class="circle falcone"></div>
-        <div class="circle chinnici"></div>
-        <div class="circle puglisi"></div>
-        <div class="circle pizzo"></div>
-        <div class="circle lenzuola"></div>
-    </div>
+    <div id="crossfade">
+		    <h1 id="itemNameCF1">Falcone e Borsellino</h1>
+		    <h1 id="itemNameCF2">Pinko Pallino</h1>
+	  </div>
+    <div id="timeline">
+	  </div>
+	  <div id="item">
+	  </div>
 </body>
 </html>

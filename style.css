@@ -42,17 +42,20 @@ nav {
 }
 
 /* Hovered item title */
-.itemTitle {
-    text-align: center;
-    font-style: italic;
-    margin: 0;
-    margin-bottom: 40px;
-    margin-top: auto;
-    font-size: 36px;
+#crossfade {
+    position: relative;
+}
+
+#itemNameCF1, #itemNameCF2 {
+    position: absolute;
+    width: 100vw;
+
+#itemNameCF2 {
+	opacity: 0;
 }
 
 /* Timeline */
-.timeline {
+#timeline {
     width: 100vw;
     height: 30px;
     margin-top: auto;
@@ -63,7 +66,7 @@ nav {
     justify-content: center;
 }
 
-.timeline > div {
+#timeline > div {
     margin: 0 10px;
 }
 
@@ -84,21 +87,23 @@ nav {
     border-radius: 0%;
 }
 
-.borsellino {
-    background-image: url("images/borsellino.png");
+/* Item */
+#item {
+    height: 0;
+    max-width: 70vw;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    transition: all 1s;
 }
-.falcone {
-    background-image: url("images/falcone.png");
+
+#closeItem {
+	display: none;
+	text-align: right;
 }
-.chinnici {
-    background-image: url("images/chinnici.png");
-}
-.puglisi {
-    background-image: url("images/puglisi.png");
-}
-.pizzo {
-    background-image: url("images/pizzo.png");
-}
-.lenzuola {
-    background-image: url("images/lenzuola.png");
+
+
+/* Animations */
+#timeline, #logo, #itemNameCF1, #itemNameCF2{
+    transition: all .5s;
 }
