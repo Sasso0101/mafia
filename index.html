@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
-    <script src="preloader.js"></script>
+    <script src="loader.js"></script>
+    <script src="script.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap" rel="stylesheet">
 </head>
 <body onload="windowStart()">
@@ -19,15 +20,15 @@
         </div>
     </nav>
     <img id="logo" src="images/logo.png" alt="">
+    <a onclick="hideItem()" id="closeItem">Chiudi</a>
     <span id="projectName">Progetto "La nave della legalità"</span>
-    <h1 id="itemName">Falcone e Borsellino</h1>
+    <div id="crossfade">
+		<h1 id="itemNameCF1">Falcone e Borsellino</h1>
+		<h1 id="itemNameCF2">Pinko Pallino</h1>
+	</div>
     <div id="timeline">
-        <div class="circle borsellino"></div>
-        <div class="circle falcone"></div>
-        <div class="circle chinnici"></div>
-        <div class="circle puglisi"></div>
-        <div class="circle pizzo"></div>
-        <div class="circle lenzuola"></div>
-    </div>
+	</div>
+	<div id="item">
+	</div>
 </body>
 </html>
