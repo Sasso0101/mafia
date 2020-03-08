@@ -6,6 +6,7 @@ body {
     justify-content: center;
     min-height: 100vh;
     font-family: 'Roboto Slab', serif;
+    overflow: hidden;
 }
 
 /* Logo */
@@ -29,21 +30,25 @@ nav {
 }
 
 .lang img {
-    width: 35px;
-    height: 35px;
+    width: 5vh;
+    height: 5vh;
     cursor: pointer;
 }
 
 /* Project name (La nave della legalità) */
 #projectName {
     text-align: center;
+    font-size: 20px;
 }
 
 /* Hovered item title */
-#itemName {
+.itemTitle {
     text-align: center;
     font-style: italic;
     margin: 0;
+    margin-bottom: 40px;
+    margin-top: auto;
+    font-size: 36px;
 }
 
 /* Timeline */
