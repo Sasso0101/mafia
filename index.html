@@ -5,9 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
+    <script src="preloader.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap" rel="stylesheet">
 </head>
-<body>
+<body onload="windowStart()">
     <nav>
         <a href="https://potep.org" id="schoolWebsite">La nostra scuola</a>
         <div class="lang">
@@ -20,7 +21,7 @@
     <img id="logo" src="images/logo.png" alt="">
     <span id="projectName">Progetto "La nave della legalità"</span>
     <h1 id="itemName">Falcone e Borsellino</h1>
-    <div class="timeline">
+    <div id="timeline">
         <div class="circle borsellino"></div>
         <div class="circle falcone"></div>
         <div class="circle chinnici"></div>
