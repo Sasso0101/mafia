@@ -47,11 +47,14 @@ nav {
 }
 
 #itemNameCF1, #itemNameCF2 {
-    position: absolute;
     width: 100vw;
     text-align: center;
     font-style: italic;
     margin: 0;
+}
+
+#itemNameCF1 {
+    position: absolute;
 }
 
 #itemNameCF2 {
@@ -93,11 +96,9 @@ nav {
 
 /* Item */
 #item {
-    height: 0;
     max-width: 70vw;
     overflow: hidden;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto auto auto;
     transition: all 1s;
 }
 

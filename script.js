@@ -17,7 +17,7 @@ function displayItem(id, json) {
 		item = document.getElementById("item");
 		item.innerHTML = json[id].html;
 		setTimeout(function(){
-			item.style.height = 'calc(100vh - 100px)';
+			// item.style.height = 'calc(100vh - 100px)';
 			closeItem.style.display = 'block';
 		}, 100)
 	}, 500);
@@ -29,7 +29,7 @@ function hideItem() {
 	logo = document.getElementById("logo"),
 	navbar = document.getElementsByTagName("nav")[0],
 	item = document.getElementById("item");
-	item.style.height = '0';
+	// item.style.height = '0';
 	closeItem.style.display = '';
 	setTimeout(function(){
 		item.innerHTML = '';
