@@ -7,18 +7,19 @@ function displayItem(id, json) {
 	timeline.style.pointerEvents = 'none';
 	timeline.style.marginBottom = '0';
 	timeline.style.opacity = 0;
-	logo.style.marginTop = '0';
 	logo.style.opacity = 0;
-	navbar.style.marginTop = '0';
 	navbar.style.opacity = 0;
 	setTimeout(function(){
 		item = document.getElementById("item");
 		item.innerHTML = json[id].html;
+		item.style.opacity = 1;
 		setTimeout(function(){
+			logo.style.marginTop = '0';
+			navbar.style.marginTop = '0';
+			logo.style.marginBottom = '0';
 			timeline.style.height = '0';
 			navbar.style.height = '0';
 			logo.style.height = '0';
-			logo.style.marginBottom = '0';
 			item.style.height = 'calc(100vh - 100px)';
 			closeItem.style.display = 'block';
 			setTimeout(function() {
@@ -38,6 +39,7 @@ function hideItem() {
 	logo = document.getElementById("logo"),
 	navbar = document.getElementsByTagName("nav")[0],
 	item = document.getElementById("item");
+	item.style.opacity = 0;
 	item.style.height = '0';
 	logo.style.display = '';
 	navbar.style.display = '';
