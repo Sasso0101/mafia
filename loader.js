@@ -11,6 +11,7 @@ Simon Tomsič*/
 function windowStart() {
 	url = getLocalizedJsonUrl('');
 	readJSON(url);
+	hideItem();
 }
 
 /* Returns the JSON url of the chosen language */

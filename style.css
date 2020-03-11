@@ -13,6 +13,7 @@ body {
 #logo {
     max-height: 30vh;
     margin: 20px auto;
+    height: 30vh;
 }
 
 /* Navbar */
@@ -30,8 +31,8 @@ nav {
 }
 
 .lang img {
-    width: 5vh;
-    height: 5vh;
+    width: 35px;
+    height: 35px;
     cursor: pointer;
 }
 
@@ -100,6 +101,7 @@ nav {
     overflow: hidden;
     margin: 0 auto auto auto;
     transition: all 1s;
+    opacity: 0;
 }
 
 #closeItem {
