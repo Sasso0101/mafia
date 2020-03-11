@@ -111,6 +111,6 @@ nav {
 
 
 /* Animations */
-#timeline, #logo, #itemNameCF1, #itemNameCF2{
+#timeline, #logo, #itemNameCF1, #itemNameCF2, nav {
     transition: all .5s;
 }
