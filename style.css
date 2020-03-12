@@ -106,9 +106,26 @@ nav {
 
 #closeItem {
 	display: none;
-	text-align: right;
+    text-align: right;
+    padding: 15px 40px 0 0;
+    text-decoration: underline;
+    cursor: pointer;
+    user-select: none;
 }
 
+#closeItem:hover {
+    color: red;
+}
+
+/* Footer */
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    text-align: center;
+    cursor: pointer;
+}
 
 /* Animations */
 #timeline, #logo, #itemNameCF1, #itemNameCF2, nav {

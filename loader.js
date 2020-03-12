@@ -104,13 +104,18 @@ function createTimeline(items) {
 	var timeline = document.getElementById('timeline');
 	for (const i in items) {
 		if (items[i].hasOwnProperty('html')) {
-			var item = document.createElement("div");
-			item.className = "circle";
-			item.id = i;
-			item.onclick = function() {displayItem(i, items);};
-			item.onmouseenter = function() {changeTitle(i, items);};
-			item.style.backgroundImage = 'url(' + items[i]['image'] + ')';
-			timeline.appendChild(item);
+			if (items[i].hasOwnProperty('image')) {
+				var item = document.createElement("div");
+				item.className = "circle";
+				item.id = i;
+				item.onclick = function() {displayItem(i, items);};
+				item.onmouseenter = function() {changeTitle(i, items);};
+				item.style.backgroundImage = 'url(' + items[i]['image'] + ')';
+				timeline.appendChild(item);
+			} else {
+				var item = document.getElementById(i);
+				item.onclick = function() {displayItem(i, items);};
+			}
 		}
 	}
 }

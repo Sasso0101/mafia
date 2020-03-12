@@ -42,9 +42,13 @@
 		"label": "Falcone e Borsellino"
 	},
 	"schoolWebsite" : {
-		"label": "Polo tecnico Cankar - Zois - Vega"
+		"label": "La nostra scuola"
 	},
 	"closeItem" : {
 		"label": "Chiudi"
+	},
+	"credits" : {
+		"label": "Creiti </br>And more</br>Copyright Pinko Pallino",
+		"html": "<p>This text will be shown</br>This are credits</br>And more</br>Copyright Pinko Pallino </p>"
 	}
 }

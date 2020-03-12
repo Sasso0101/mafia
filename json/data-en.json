@@ -1,7 +1,7 @@
 {
 	"borsellino" : {
 		"label" : "Borsellino",
-		"html" : "<p>Ave mariaaiti maan lapsienTaas meihin katsoo suojellenKun poika syntymäpäivä onMä pieni ihminen turvatonPyydän siunauksenAnna harras mieli joulu puhtain tuoJa hengelläs meitä suojaaNäin muistaen kaiken luojaaJohda meistä jokainen poikas luoAve mariaaiti maan lapsienTaas meihin katsoo suojellenKun poika syntymäpäivä onMä pieni ihminen turvatonPyydän siunauksenAnna harras mieli joulu puhtain tuoJa hengelläs meitä suojaaNäin muistaen kaiken luojaaJohda meistä jokainen poikas luoAve maria In facilis qui molestias.A aut soluta totam qui repudiandae recusandae delectus. Nobis non nostrum neque quos dignissimos qui quod. Quos accusamus amet nam ex odit dolorem necessitatibus. Deserunt sed harum deleniti.Et sunt impedit pariatur animi deleniti sint debitis accusantium. Dolor voluptatem tempora voluptate consequatur voluptatem quaerat illum unde. Atque laudantium quas maiores. Voluptatem quia nesciunt earum officiis perspiciatis saepe sint eum. Et alias ipsa cum non.Totam non at magnam quibusdam dicta quam iure. Voluptatibus non itaque dolores rerum molestiae eos. Consectetur non velit tempore repellat quos placeat dolor blanditiis.Explicabo tempora minus et ea quia harum ut voluptatem. Magnam eos adipisci nulla culpa explicabo. Culpa corrupti voluptatem labore.</p>",
+		"html" : "<p>Odio quasi dolorem suscipit alias commodi deserunt explicabo. Commodi consequatur ut voluptas in aperiam. In facilis qui molestias.A aut soluta totam qui repudiandae recusandae delectus. Nobis non nostrum neque quos dignissimos qui quod. Quos accusamus amet nam ex odit dolorem necessitatibus. Deserunt sed harum deleniti.Et sunt impedit pariatur animi deleniti sint debitis accusantium. Dolor voluptatem tempora voluptate consequatur voluptatem quaerat illum unde. Atque laudantium quas maiores. Voluptatem quia nesciunt earum officiis perspiciatis saepe sint eum. Et alias ipsa cum non.Totam non at magnam quibusdam dicta quam iure. Voluptatibus non itaque dolores rerum molestiae eos. Consectetur non velit tempore repellat quos placeat dolor blanditiis.Explicabo tempora minus et ea quia harum ut voluptatem. Magnam eos adipisci nulla culpa explicabo. Culpa corrupti voluptatem labore.</p>",
 		"image" : "images/borsellino.png"
 	},
 	"chinnici" : {
@@ -42,9 +42,13 @@
 		"label": "Falcone e Borsellino"
 	},
 	"schoolWebsite" : {
-		"label": "Polo tecnico Cankar - Zois - Vega"
+		"label": "La nostra scuola"
 	},
 	"closeItem" : {
 		"label": "Chiudi"
+	},
+	"credits" : {
+		"label": "This are credits</br>And more</br>Copyright Pinko Pallino",
+		"html": "<p>L'Angelo del Signore portò l'annunzio a Maria - Ed ella concepì per opera dello Spirito Santo. Ave Maria... Eccomi, sono la serva del Signore. - Si compia in me la tua parola. Ave Maria... E il Verbo si fece carne. - E venne ad abitare in mezzo a noi. Ave Maria... Prega per noi, santa Madre di Dio. Perché siamo resi degni delle promesse di Cristo.</p>"
 	}
 }
