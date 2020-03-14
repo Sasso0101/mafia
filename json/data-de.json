@@ -1,0 +1,54 @@
+{
+	"borsellino" : {
+		"label" : "Borsellino",
+		"html" : "<p>Odio quasi dolorem suscipit alias commodi deserunt explicabo. Commodi consequatur ut voluptas in aperiam. In facilis qui molestias.A aut soluta totam qui repudiandae recusandae delectus. Nobis non nostrum neque quos dignissimos qui quod. Quos accusamus amet nam ex odit dolorem necessitatibus. Deserunt sed harum deleniti.Et sunt impedit pariatur animi deleniti sint debitis accusantium. Dolor voluptatem tempora voluptate consequatur voluptatem quaerat illum unde. Atque laudantium quas maiores. Voluptatem quia nesciunt earum officiis perspiciatis saepe sint eum. Et alias ipsa cum non.Totam non at magnam quibusdam dicta quam iure. Voluptatibus non itaque dolores rerum molestiae eos. Consectetur non velit tempore repellat quos placeat dolor blanditiis.Explicabo tempora minus et ea quia harum ut voluptatem. Magnam eos adipisci nulla culpa explicabo. Culpa corrupti voluptatem labore.</p>",
+		"image" : "images/borsellino.png"
+	},
+	"chinnici" : {
+		"label" : "Chinnici",
+		"html" : "pinko",
+		"image" : "images/chinnici.png"
+	},
+	"falcone" : {
+		"label" : "Falcone",
+		"html" : "<p>Giovanni Falcone wurde am 20.05.1939 in Palermo geboren und starb am 23.05.1992. Er war ein mächtiger Richter und Verteidiger des Rechtsstaats. Er war einer der wichtigsten Kämpfer gegen die Mafia. Seine zweite Frau war Francesca Morvillo, die ihm im Kampf gegen die Mafia half. Zusammen mit Rocco Chinnici und Paolo Borsellino gründete er die Vereinigung „Pool Antimafia“. Die Mafia tötete ihn auf der Autobahn bei der Ausfahrt nach Capaci mit 1000 kg Sprengstoff. Auch seine Frau und ein Chauffeur sind dabei gestorben.</p>",
+		"image" : "images/falcone.png"
+	},
+	"lenzuola" : {
+		"label" : "Lenzuola",
+		"html" : "pinko",
+		"image" : "images/lenzuola.png"
+	},
+	"pizzo" : {
+		"label" : "Pizzo",
+		"html" : "pinko",
+		"image" : "images/pizzo.png"
+	},
+	"puglisi" : {
+		"label" : "Puglisi",
+		"html" : "<p>Giuseppe Puglisi oder Don Pino Puglisi war ein Priester, Pädagoge, Lehrer und Aktivist, von der Mafia getötet wurde. Er wurde 1937 im Stadtteil Brancaccio in Palermo geboren. Er war bekannt dafür, dass er den groβen Teil seines Lebens jungen Menschen aus sozial schwierigen Verhältnissen widmete. Als er nach einem langen Arbeitstag nach Hause zurückkehrte, erschien Gaspare Spatuzza plötzlich vor der Wohnungstür. Hinter Puglisi befand sich Salvatore Grigoli, der eine Waffe in der Hand hielt. Er gab zwei Schüsse ab und tötete ihn. Sein Tod hatte schwere Auswirkungen auf die Pfarrgemeinde. Er wird am 21. Oktober, dem Tag seiner Taufe, und am 21. März, dem Tag der Erinnerung und des Engagements für die unschuldigen Opfer der Mafia, in Erinnerung gerufen. Er ist das erste Opfer des organisierten Verbrechens, das von der katholischen Kirche zum Märtyrer erklärt wurde.</p><h2>ANTI MAFIA BEWUNGEN</h2><p>Anti-Mafia-Bewegungen sind für Anti-Mafia-Aktivitäten verantwortlich. Diese Verbände sind Unternehmen oder Organisationen, die sich der Mafia und ihrer Gewalt widersetzen. Die meisten dieser Vereinigungen wurden nach Verbrechen von kriminellen Organisationen wie Cosa Nostra, Camorra, Ndrangheta, Sacra Corona Unita und Stidda gegründet. Leider reicht die Aktion der Anti- Mafia-Bewegungen nicht aus, um den Mafia-Organisationen entgegenzuwirken, es ist auch notwendig, auf die Gründe zu reagieren, weshalb junge Leute Mitglieder krimineller Organisationen werden. Junge Menschen müssen dazu erzogen werden, nicht nur andere Menschen, sondern auch das Gesetz zu respektieren. Nicht nur Schulen, sondern auch die Medien und sozialen Netzwerke, die jungen Menschen heute sehr nahe stehen, können uns helfen, die Werte Legalität, Respekt und Gewaltlosigkeit zu verbreiten.</p>",
+		"image" : "images/puglisi.png"
+	},
+	"logo" : {
+		"image" : "images/logo.png"
+	},
+	"projectName" : {
+		"label": "Progetto 'La nave della legalità'"
+	},
+	"itemNameCF1" : {
+		"label": "Falcone e Borsellino"
+	},
+	"itemNameCF2" : {
+		"label": "Falcone e Borsellino"
+	},
+	"schoolWebsite" : {
+		"label": "La nostra scuola"
+	},
+	"closeItem" : {
+		"label": "Chiudi"
+	},
+	"credits" : {
+		"label": "This are credits</br>And more</br>Copyright Pinko Pallino",
+		"html": "<p>L'Angelo del Signore portò l'annunzio a Maria - Ed ella concepì per opera dello Spirito Santo. Ave Maria... Eccomi, sono la serva del Signore. - Si compia in me la tua parola. Ave Maria... E il Verbo si fece carne. - E venne ad abitare in mezzo a noi. Ave Maria... Prega per noi, santa Madre di Dio. Perché siamo resi degni delle promesse di Cristo.</p>"
+	}
+}

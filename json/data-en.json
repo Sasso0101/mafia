@@ -11,7 +11,7 @@
 	},
 	"falcone" : {
 		"label" : "Falcone",
-		"html" : "pinko",
+		"html" : "<p>Giovanni Falcone was born in Palermo on 20th May and died in Capaci on 23rd May. He was a high moral standing judge and defender of legality. His second wife Francesca Morvillo helped him against the mafia criminals. He was one of the greatest protagonists against the mafia. Together with Rocco Chinnici and Paolo Borsellino he created the Antimafia Pool in order to investigate the mafia crimes. He died on the Capaci highway while he was returning from Rome. The mafia criminals killed him by inserting 1000 kilos of TNT under the highway.</p>",
 		"image" : "images/falcone.png"
 	},
 	"lenzuola" : {
@@ -21,12 +21,12 @@
 	},
 	"pizzo" : {
 		"label" : "Pizzo",
-		"html" : "pinko",
+		"html" : "<p>The “pizzo” is a sort of a monthly payment or protection money paid by shop and restaurant owners to the Mafia. In return businesses receive apparent protection. If entrepreneurs do not pay the “pizzo”, they can have serious consequences such as burned down properties, being harassed, getting whipped and being intimidated by these criminals. The word “pizzo” comes from the Sicilian “u pizzu” which refers to the beak of birds. “U pizzu” is found in an old Sicilian proverb, “fari vagnari u pizzu&quot;, which means to give a glass of wine to a person from whom you received a favour in order to show gratitude. The phrase to pay the pizzo comes from this kind of expression, which means making the beak wet, but it is used in a metaphorical sense and with a very negative meaning. Fortunately there are associations against the pizzo. One of them is Addiopizzo, which started to grow in 2004 and aims to free shopkeepers from the tyranny of extortion payments.</p>",
 		"image" : "images/pizzo.png"
 	},
 	"puglisi" : {
 		"label" : "Puglisi",
-		"html" : "pinko",
+		"html" : "<p>Giuseppe Puglisi or Don Pino Puglisi was a priest, educator, teacher and activist killed by the mafia organization Cosa Nostra. He was born in 1937 in the Brancaccio neighborhood in Palermo. He was known for devoting most of his life to young people and removing them from the mafia. On 15th September 1993 Don Puglisi celebrated his 56 birthday. When he returned home after a long day of work Gaspare Spatuzza suddenly appeared in front of the door. Behind Don Puglisi there was Salvatore Grigoli who was holding a gun, he fired two shots and killed him. His death severely affected the parish community. He is remembered on October 21st, the day he was baptized, and on March 21st, the day of rememberance and commitment for the innocent victims of the mafia. He is the first victim of organized crime to be declared a martyr by the Catholic Church.</p><h2>ANTI MAFIA MOVEMENTS</h2><p>Anti-mafia movements are responsible for anti-mafia activities. These associations are companies or organizations that oppose the mafia and its violence. Most of these associations were born after the crimes committed by criminal organizations such as Cosa Nostra, Camorra, Ndrangheta, Sacra Corona Unita and Stidda. Unfortunately, the action of the anti-mafia movements is not enough to counter the mafia organizations and it is necessary to act on the reasons that cause the new mafia. Young people must be educated to respect not only other people, but also the law. Not only schools but also the media and social networks, which today are very close to young people, can help us spread the values of legality, respect and non- violence.</p>",
 		"image" : "images/puglisi.png"
 	},
 	"logo" : {
