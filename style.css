@@ -98,8 +98,8 @@ nav {
 /* Item */
 #item {
     max-width: 70vw;
-    overflow: hidden;
-    margin: 0 auto auto auto;
+    overflow: hidden auto;
+    margin: 25px auto auto auto;
     transition: all 1s;
     opacity: 0;
 }

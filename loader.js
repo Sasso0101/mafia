@@ -20,7 +20,8 @@ function getLocalizedJsonUrl(userLang) {
 		'it': 'json/data-it.json',
 		'si': 'json/data-si.json',
 		'de': 'json/data-de.json',
-		'en': 'json/data-en.json'
+		'en': 'json/data-en.json',
+		'fur': 'json/data-fur.json'
 	};
 	if (userLang == '') {
 		userLang = navigator.language || navigator.userLanguage;

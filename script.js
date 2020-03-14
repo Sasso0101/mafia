@@ -27,7 +27,7 @@ function displayItem(id, json) {
 			timeline.style.height = '0';
 			navbar.style.height = '0';
 			logo.style.height = '0';
-			item.style.height = 'calc(100vh - 100px)';
+			item.style.height = 'calc(100vh - 150px)';
 			closeItem.style.display = 'block';
 			setTimeout(function() {
 				timeline.style.display = 'none';
